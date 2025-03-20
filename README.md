@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm kumari priya</h1>
 <h3 align="center">A passionate AI and Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **RAG projects**
-
 - 🌱 I’m currently learning **AI and Deep Learning**
 
 - 👯 I’m looking to collaborate on **AI projects**
@@ -12,8 +10,6 @@
 - 📫 How to reach me **iampriya12345678@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1e829jOJ3hcBQa9aAXgivakdqVa3RvoGC/view?usp=sharing](https://drive.google.com/file/d/1e829jOJ3hcBQa9aAXgivakdqVa3RvoGC/view?usp=sharing)
-
-- ⚡ Fun fact **I'm into Tech but not a Tech geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
